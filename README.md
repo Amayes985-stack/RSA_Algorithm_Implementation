@@ -1,2 +1,7 @@
 # RSA_Algorithm_Implementation
-Simple Implementation of the RSA algorithm in Java.
+
+The program represents a simple implementation of the RSA Algorithm in Java for educational purposes. 
+
+
+
+
